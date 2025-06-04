@@ -1,3 +1,3 @@
 # sami-bardakci
 Personal
-Industrial Engineer
+IE Student
